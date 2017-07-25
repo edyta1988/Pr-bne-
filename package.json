@@ -1,0 +1,22 @@
+{
+  "name": "RWD",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edyta1988/Pr-bne-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edyta1988/Pr-bne-/issues"
+  },
+  "homepage": "https://github.com/edyta1988/Pr-bne-#readme"
+}
